@@ -23,11 +23,11 @@ This project analyzes internal audit findings collected from multiple business u
 ## 📷 Dashboard Preview
 
 ### Dashboard
-`Screenshot (1070).png`
+Screenshot (1070).png
 
 ### Executive Insights
-`Screenshot (1069).png`
-`image.png`
+Screenshot (1069).png
+image.png
 
 ---
 
