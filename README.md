@@ -84,4 +84,3 @@ image.png
 
 Information Systems Graduate | Data Analytics Enthusiast | Business Intelligence
 
-LinkedIn: *(tambahkan link LinkedIn kamu nanti)*
